@@ -25,7 +25,8 @@ public class Ejercicio01 {
         
         
         System.out.println(resultado);
-        //Ejercicio analizado y correcto
+        //Ejercicio analizado, corregir variale6 =80 y poner variale6 =81  
+        
 
     }
 
