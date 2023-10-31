@@ -13,6 +13,7 @@ public class Ejercicio04 {
        int resultado1 = (var1/(var2 + var3))+2;
      boolean resultadofinal = resultado1 >= var3;
         System.out.println(resultadofinal);
+        //Ejercicio Corregido por Rafaella Palacios
                        
     }
     
