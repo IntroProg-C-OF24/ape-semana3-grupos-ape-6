@@ -6,6 +6,7 @@ public class Proyecto04 {
 
    
     public static void main(String[] args) {
+        //Resolucion de problemas
         int var1 = 20;
         int var2 = 1;
         int var3 = 3;
