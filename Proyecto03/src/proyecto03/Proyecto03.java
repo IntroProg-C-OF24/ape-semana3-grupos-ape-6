@@ -19,7 +19,8 @@ public class Proyecto03 {
         double respuesta;
         respuesta = (Math.pow(var1, var2)) + (Math.sqrt(var3)) + (double) var4/(var5 + var6);
         System.out.println("La respuesta es:" + respuesta);
-        // ejercicio 3 corregido por Axel Román
+        // ejercicio 3 corregido por Axel Roman 
+        
     }
     
 }
