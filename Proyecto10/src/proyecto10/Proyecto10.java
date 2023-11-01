@@ -16,6 +16,7 @@ public class Proyecto10 {
         boolean resultado2 = var7 >= var5;
         boolean resultadoFinal = resultado1 && true || false || resultado2;
         System.out.println("El resultado es: " + resultadoFinal); 
+        //Proyecto10 Corregido por Rafaella Palacios
     }
     
 }
